@@ -32,6 +32,13 @@ As delivery time increases, customer ratings consistently decrease, making deliv
 - Identifying high-delay regions helps optimize logistics operations
 - Enables data-driven decision-making to improve customer experience and retention
 
+## Dashboard Preview
+
+### Customer Satisfaction Overview
 ![Customer](customer.PNG)
+
+### Delivery Performance Analysis
 ![Delivery](delivery.PNG)
+
+### Regional Performance Analysis
 ![Region](region.PNG)
