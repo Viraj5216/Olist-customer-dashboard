@@ -10,27 +10,35 @@ Analyzed e-commerce order data to identify key factors affecting customer satisf
 
 ## Key Dashboards
 - Customer Satisfaction Overview
-- Delivery Delay Impact Analysis
+- Delivery Performance Analysis
 - Regional Performance Analysis
 
-## Key Insights
-- Customer satisfaction drops significantly as delivery delays increase
-- Orders delivered early or on time have an average rating above 4, while very late deliveries drop close to 2
-- Certain regions consistently experience longer delivery times, impacting customer experience
-- Delivery performance is the strongest driver of customer review scores
+## Key Findings
+
+### 🚚 Delivery Delay is the Biggest Driver of Dissatisfaction
+Customer satisfaction drops significantly as delivery delays increase. Orders delivered on time or early have average ratings above 4, while very late deliveries drop close to 2.
+
+### 🌍 Regional Performance Varies Significantly
+Certain regions consistently experience longer delivery times and lower review scores, indicating logistics inefficiencies.
+
+### 📦 High Order Volume ≠ High Satisfaction
+Regions with high order volumes do not always have high review scores, showing that scale without efficiency impacts customer experience.
+
+### 📈 Strong Negative Correlation Between Delivery Time and Ratings
+As delivery time increases, customer ratings consistently decrease, making delivery performance a key predictor of satisfaction.
 
 ## Business Impact
 - Improving delivery timelines can significantly increase customer satisfaction
-- Identifying high-delay regions helps optimize logistics and operations
+- Identifying high-delay regions helps optimize logistics operations
 - Enables data-driven decision-making to improve customer experience and retention
 
 ## Dashboard Preview
 
 ### Customer Satisfaction Overview
-![Customer](olist1.png)
+![Customer](customer.png)
 
-### Delivery Delay Impact
-![Delivery](olist2.png)
+### Delivery Performance Analysis
+![Delivery](delivery.png)
 
-### Regional Performance
-![Region](olist3.png)
+### Regional Performance Analysis
+![Region](region.png)
